@@ -1,0 +1,41 @@
+html{
+    margin-top: 200px;
+}
+
+body{
+    margin: auto;
+    border: 2px solid black;
+    font-weight: bold;
+    width: 750px;
+    height: 200px;
+}
+
+.fill {
+    border: 2px solid black;
+    background-color: white;
+    text-align: center;
+    font-size: 14px;
+    width: 200px;
+    height: 45px;
+    font-weight: bold;
+    top: 32%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    position: absolute;
+    
+}
+
+.view {
+    border: 2px solid black;
+    background-color: white;
+    text-align: center;
+    font-size: 14px;
+    width: 200px;
+    height: 45px;
+    font-weight: bold;
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    position: absolute;
+}
+
